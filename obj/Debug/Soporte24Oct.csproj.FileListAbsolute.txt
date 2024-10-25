@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Universidad\Soporte\Soporte24Oct\Soporte24Oct\obj\Debug\Soporte24Oct.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Universidad\Soporte\Soporte24Oct\Soporte24Oct\obj\Debug\Soporte24Oct.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Universidad\Soporte\Soporte24Oct\Soporte24Oct\bin\Debug\Soporte24Oct.exe.config
+C:\Users\USER\Desktop\Universidad\Soporte\Soporte24Oct\Soporte24Oct\bin\Debug\Soporte24Oct.exe
+C:\Users\USER\Desktop\Universidad\Soporte\Soporte24Oct\Soporte24Oct\bin\Debug\Soporte24Oct.pdb
+C:\Users\USER\Desktop\Universidad\Soporte\Soporte24Oct\Soporte24Oct\obj\Debug\Soporte24Oct.exe
+C:\Users\USER\Desktop\Universidad\Soporte\Soporte24Oct\Soporte24Oct\obj\Debug\Soporte24Oct.pdb
